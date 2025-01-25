@@ -1,8 +1,18 @@
-# React + Vite
+# Disney Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Disney Clone project built with HTML, CSS, and JavaScript. The project replicates the design and features of the Disney website, including elements like navigation, movie displays, and a user interface resembling the official Disney site.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive layout for all screen sizes.
+- Movie cards displaying popular Disney titles.
+- Functional navigation bar.
+- Interactive UI elements.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/disney-clone.git
